@@ -10,6 +10,9 @@ print("Після видалення елемента 3:", my_list)
 
 print("Довжина списку зараз:", len(my_list))
 
+print("Зміна з першої папки")
+
+
 no_duplicates = list(set(my_list))
 print("Без дублікатів:", no_duplicates)
 
