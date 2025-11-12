@@ -12,6 +12,8 @@ print("Довжина списку зараз:", len(my_list))
 
 print("Зміна з першої папки")
 
+print("Зміна з другої папки")
+
 
 no_duplicates = list(set(my_list))
 print("Без дублікатів:", no_duplicates)
