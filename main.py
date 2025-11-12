@@ -22,6 +22,7 @@ print("Без дублікатів:", no_duplicates)
 reversed_list = my_list[::-1]
 print("Розвернутий список:", reversed_list)
 
+Зміна через вебінтерфейс GitHub
 
 a = 2
 b = 3
